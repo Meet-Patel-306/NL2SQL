@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="logo.png" alt="SQL-AI Logo" width="140" />
   <h1>SQL-AI</h1>
   <p><b>Natural Language Database Analytics Powered by Gemini AI</b></p>
-</div>
+</div> -->
 
 An autonomous Natural Language to SQL Analytics Agent built with **Flask**, **Google Gemini**, **LangChain**, and **React**. Designed for production demonstrations, portfolio reviews, and interactive data exploration.
 
